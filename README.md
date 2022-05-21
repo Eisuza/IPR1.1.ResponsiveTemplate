@@ -1,0 +1,1 @@
+# IPR1.1.ResponsiveTemplate
